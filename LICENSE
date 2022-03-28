@@ -1,0 +1,147 @@
+FUJITSU ANNUAL SUBSCRIPTION AGREEMENT
+
+For the purposes of this Fujitsu Annual Subscription Agreement, “Licensed Material” shall mean the software program (“Software”) and the accompanying documentation, including “Read Me” file(s) (“Documentation”), which is identified on Exhibit A attached hereto.  The Software is copyrighted and owned by Fujitsu Limited or a Fujitsu’s licensor, and licensed, not sold to you (“you” or “You”).  The term “Fujitsu” hereunder shall collectively mean Fujitsu Limited or its subsidiaries.
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.  FUJITSU WILL LICENSE THE SOFTWARE TO YOU ONLY IF YOU FIRST ACCEPT THE TERMS OF THIS AGREEMENT.  BY USING THE SOFTWARE, YOU AGREE TO THESE TERMS.
+
+The Software and specific support services (“Support”) that Fujitsu or its authorized reseller will provide to you are also described in and subject to a purchase agreement (“Purchase Agreement”), signed by You and Fujitsu or its authorized reseller, or otherwise accepted by Fujitsu or its authorized reseller, which may consist of one or more mutually agreed order forms, statements of work or similar transaction documents.
+
+This Fujitsu Annual Subscription Agreement, together with its Exhibits (“Agreement”), and the Purchase Agreement are the complete agreement regarding the use of the Software and the Support and replace any prior oral or written communications between you and Fujitsu. If you have a direct purchase agreement with Fujitsu Limited, then that purchase agreement takes precedence and this Agreement does not apply, otherwise in the event of conflicts between the provisions of this Agreement and those of the Purchase Agreement, those of this Agreement shall prevail.
+
+1.	License.
+
+a.	Grant.  Subject to the terms of this Agreement and subject to your payment of the applicable subscription fees, Fujitsu grants to you a limited, non-exclusive, non-transferable  subscription license, without the right to sublicense, to install and use the Software on computer hardware and Documentation during the period set forth in Exhibit A (“License and Support Period”), provided that you have the subscription license of the required product which is identified on Exhibit A (“Required Product”) in such License and Support Period.  Unless the Software has copy guard functions, you are permitted to copy the Software for archiving purpose and other purposes as expressly permitted under the Documentation, provided each copy or partial copy of the Software must include the copyright notice and any other ownership information as they appear within the Software or Documentation.
+
+b.	Additional Use.  In case expressly permitted under the Documentation, you may embed the whole or part of the Software into your software program in accordance with the terms and conditions described in the Documentation.
+
+c.	Restrictions on Use.  You shall not, and shall not permit any third party to: (i) use or copy the Licensed Materials except to the extent permitted in Sections 1(a) and 1(b); (ii) use or cause any person or corporation to use any part of the Software in any way to provide software as a service provider service, application service provider service, computing service, commercial timesharing service or other services of similar nature, (iii) modify any part of the Licensed Materials; or (iv) market, sell, license, sublicense, distribute, publish, display, reproduce, rent, lease, loan, assign or otherwise transfer to a third party the Licensed Materials or any copy thereof, in whole or in part.  You agree that, except to the extent permitted by law, you shall not, and shall not cause or permit any third party to, disassemble, decompile or reverse engineer of the Software or otherwise attempt to gain access to the source code to the Software.  You agree that only Fujitsu Limited or its licensors shall have the right to maintain, enhance or otherwise modify the Licensed Materials.
+
+d.	Open Source Software.  The Software may also contain open source software components that are distributed under the GNU General Public License, the PostgreSQL License, the GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, the GNU LESSER GENERAL PUBLIC LICENSE Version 3, the GNU LIBRARY GENERAL PUBLIC LICENSE Version 2  or any other open source or third party software license applicable to such open source software components (“Applicable Open Source Software License”).  You recognize and accept that the licensing of such open source software components is governed by the Applicable Open Source Software License as additional terms of this Agreement.  In the event of conflicts between the provisions of this Agreement and those of the Applicable Open Source Software License, those of the Applicable Open Source Software License shall prevail.  Notwithstanding anything herein to the contrary, THE OPEN SOURCE SOFTWARE COMPONENTS (EXCLUDING THE OPEN SOURCE SOFTWARE COMPONENT, WHICH IS DEFINED IN THE DOCUMENTATION AS SUBJECT TO LIMITED WARRANTY UNDER THIS AGREEMENT) ARE PROVIDED “AS IS” AND FUJITSU ASSUMES NO EXPRESS OR IMPLIED LIABILITY FOR SUCH OPEN SOURCE SOFTWARE COMPONENTS AND EXCLUDES ANY KIND OF WARRANTY FOR SUCH OPEN SOURCE SOFTWARE COMPONENTS, PARTICULARLY IN CONNECTION WITH MISSING SPECIFICATIONS, LACK OF FUNCTIONALITY, PROGRAMMING ERRORS OR ANY OTHER MALFUNCTIONS.
+
+2.	Support.
+
+Fujitsu or its authorized reseller will provide the Support to you during the License and Support Period, provided that you have the subscription license of Required Product in such License and Support Period.  The details of the Support are described in the Purchase Agreement or otherwise provided to you in writing by Fujitsu or its authorized reseller.
+
+3.	Payment Term.
+You agree to pay the applicable subscription fees for the Software and Support to Fujitsu or its authorized reseller in accordance with the terms of the Purchase Agreement.  These subscription fees are non-refundable.
+
+4.	Ownership.
+
+You acknowledge and agree that Fujitsu Limited or its licensors’ own and shall retain all proprietary rights, title and interest in and to the Licensed Materials.  You acknowledge that the license granted under this Agreement does not provide you with title to or ownership of the Licensed Materials, but only a right of limited use under the terms and conditions of this Agreement.
+
+5.	Confidentiality.
+
+Any Licensed Materials are considered the confidential information of Fujitsu and you shall not disclose, disseminate or otherwise publish or communicate such confidential information to any person, firm, corporation or other third party without the prior written consent of Fujitsu.
+
+6.	Limited Warranty.
+
+a.	Scope of Limited Warranty.  Fujitsu warrants to you that for a period of ninety (90) days (“Warranty Period”) from delivery of the Software, the Software (other than open source software components as stated in Section 1(d),  if any), as delivered, will perform substantially in accordance with the Documentation for the Software.
+
+b.	Sole Remedy.  Fujitsu’s liability and your sole and exclusive remedies under the limited warranty set forth above shall be, at Fujitsu’s election, to attempt, through reasonable efforts, to correct any failure of the Software to conform to the Documentation or to provide the information relating to such correction.  The above remedies are available only if discovery of the non-conformity occurs during the Warranty Period, and Fujitsu is promptly notified in writing by you of such discovery.  These limited warranties shall not apply if the Software has been: (i) altered or modified; (ii) subjected to negligence, computer or electrical malfunction; or (iii) used, adjusted, installed or operated (A) other than in accordance with this Agreement or the instructions furnished by Fujitsu or (B) with an application or in an environment other than that intended by Fujitsu.
+
+c.	Disclaimer of Any Other Warranties.  EXCEPT FOR THE EXPRESS, LIMITED WARRANTY PROVIDED IN THIS SECTION 6, FUJITSU MAKES NO WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE LICENSED MATERIALS OR ANY OTHER ACCOMPANYING MATERIAL PROVIDED HEREUNDER.  FUJITSU SPECIFICALLY DISCLAIMS ALL OTHER WARRANTIES, EXPRESS AND IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT AND THOSE ARISING FROM A COURSE OF DEALING, USAGE OR TRADE, AND ALL SUCH WARRANTIES ARE HEREBY EXCLUDED TO THE FULLEST EXTENT PERMITTED BY LAW.  EXCEPT AS EXPRESSLY PROVIDED HEREIN, THE LICENSED MATERIAL IS PROVIDED ON AN AS IS, AS AVAILABLE BASIS.
+
+7.	Limitation of Liability.
+
+IN NO EVENT SHALL FUJITSU'S LIABILITY ARISING UNDER THIS AGREEMENT EXCEED THE AMOUNT OF SUBSCRIPTION  FEE PAID BY YOU FOR THE 12 MONTHS PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO SUCH LIABILITY.  FUJITSU WILL NOT BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, INDIRECT, OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION LOST PROFITS, BUSINESS, CONTRACTS, REVENUE, GOODWILL, PRODUCTION, ANTICIPATED SAVINGS, LOSS OF DATA, OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR, FOR ANY CLAIM OR DEMAND BY YOU, HOWEVER CAUSED AND (TO THE FULLEST EXTENT PERMITTED BY LAW) UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE) EVEN IF FUJITSU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  YOU ACKNOWLEDGE THAT THE AMOUNTS PAYABLE HEREUNDER ARE BASED IN PART ON THESE LIMITATIONS, AND FURTHER AGREE THAT THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+8.	Termination.
+
+Fujitsu shall have the right to terminate immediately this Agreement and the license granted herein upon written notice in the event that you fail to comply with any of the terms and conditions of this Agreement.  The rights and obligations of Fujitsu and your rights and obligations in Sections 1(c), 4, 5, 6(c), 7, 8 and 9 shall survive termination of this Agreement.  Upon termination of this Agreement, according to Fujitsu’s request, you shall return to Fujitsu or, destroy, at your expense, all Licensed Materials, including all copies thereof.
+
+9.	Miscellaneous.
+
+a.	Assignment.  You shall not assign or otherwise transfer this Agreement or any rights or obligations hereunder, in whole or in part, whether by operation of law or otherwise, to any other party without Fujitsu’s prior written consent.  Any purported transfer, assignment or delegation without such prior written consent will be null and void and of no force or effect.
+
+b.	Entire Agreement; Modification; Waiver.  This Agreement represents the entire agreement between the parties, and supersedes all prior agreements and understandings, written or oral, with respect to the matters covered by this Agreement.  No modification of nor amendment to this Agreement, nor any waiver of any rights under this Agreement, shall be effective unless in writing and signed by both parties.  The waiver of one breach or default or any delay in exercising any rights shall not constitute a waiver of any subsequent breach or default.
+
+c.	Governing Law.  This Agreement is governed by the laws of California.  The United Nations Convention on Contracts for the International Sales of Goods shall not apply to this Agreement.
+
+d.	Severability.  If any provision of this Agreement is held invalid or unenforceable under applicable law by a court of competent jurisdiction, it shall be replaced with the valid provision that most closely reflects the intent of the parties and the remaining provisions of this Agreement will remain in full force and effect.
+
+e.	U.S. Government Restricted Rights.  If this Licensed Material is being licensed to the U.S. Government, the Licensed Materials are “commercial computer software” and “commercial computer documentation” developed exclusively at private expense, and (a) if acquired by or on behalf of a civilian agency, shall be subject solely to the terms of this computer software license as specified in 48 C.F.R. 12.212 of the Federal Acquisition Regulations and its successors; and (b) if acquired by or on behalf of units of the Department of Defense (“DOD”) shall be subject to the terms of this commercial computer software license as specified in 48 C.F.R. 227.7202-2, DOD FAR Supplement and its successors.
+
+f.	Export Law Assurances.  You understand that the Licensed Materials are subject to export control laws and regulations.  You may not export or re-export the Licensed Materials or any underlying information or technology except in full compliance with all applicable export laws and regulations.
+
+g.	High Safety Required Use.  You acknowledge and agree that the Software is designed, developed and manufactured as contemplated for general use, including without limitation, general office use, personal use, household use, and ordinary industrial use, but is not designed, developed and manufactured as contemplated for use accompanying fatal risks or dangers that, unless extremely high safety is secured, could lead directly to death, personal injury, severe physical damage or other loss (hereinafter “High Safety Required Use”), including without limitation, nuclear reaction control in nuclear facility, aircraft flight control, air traffic control, mass transport control, medical life support system, missile launch control in weapon system.  You shall not use the Software without securing the sufficient safety required for the High Safety Required Use.  In addition, Fujitsu shall not be liable against you and/or any third party for any claims or damages arising in connection with the High Safety Required Use of the Software.
+ 
+h.	Audit.  Fujitsu may, at its expense, appoint its own personnel or an independent third party to audit the numbers of copies and installations as well as usage of the Software in use by you.  Any such audit shall be conducted upon thirty (30) days prior notice, during regular business hours on your offices and shall not unreasonably interfere with your business activities.
+
+
+EXHIBIT A
+
+1. Licensed Material
+
+1.1. Licensed Material.
+Licensed Material is specified in the Purchase Agreement by the following list table of Product Names / Product Numbers :
+
+No. |Product Name|Product Number
+1|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator for Kubernetes|B23K0CT91
+2|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator Bundle for Kubernetes|B23K0CTA1
+3|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator for Kubernetes|B23K0CT21
+4|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator Bundle for Kubernetes|B23K0CT01
+5|Fujitsu Enterprise Postgres Operator/License Bundle for amd64 , Software version 14|－
+6|Fujitsu Enterprise Postgres 14 Operator for amd64|－
+
+1.2. License and Support Period:
+License and Support Period is as defined in the Purchase Agreement, or , if it is not defined in the Purchase Agreement, twelve (12) months from the invoice date of this Licensed Material.
+If you fail to make any payment by due date, Fujitsu or authorized reseller, at its sole discretion and without affecting the rights of Fujitsu under this Agreement, may cancel or suspend the license and Support.
+
+1.3. Required Product
+No. 1, 3, and 6 in the table of Product Names in 1.1 Licensed Material require the following products.
+
+Product name:
+Product Name|Product Number
+FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 for Linux|B23HB9380
+FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 14 for Linux|B23KE0AK8
+FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 for Linux|B23K0CSP1
+FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 for Linux|B23K0CSY1
+
+2. Additional Terms
+
+The Software which is included in Licensed Material listed above is licensed under the following terms and conditions in addition to those of this Agreement.
+
+2.1. Physical server deployment: Notwithstanding anything contained herein to the contrary, in the case that the Software is installed on a physical server, you must be licensed for the total number of Cores installed on the server.  For example, a two (2) CPU server with eight (8) Cores per CPU must be licensed for sixteen (16) Cores of the Software.  For the purpose of this Exhibit, a “CPU” shall mean the physical processor installed in a physical server, a “Core” shall mean a processor core of a CPU, a “Virtual Core” in the context of Software environment shall mean the number of cores recognized by the Operating system, and “Computer” shall mean the computer hardware that runs the OS approved by Fujitsu as the operating environment for the Software.  In case you divide physically one (1) Computer into a number of individual sections where each section acts as an independent system (“Partition”), then one (1) Partition shall be deemed equivalent to one (1) Computer under this Agreement.
+
+2.2. If the software program for Client (“Client Software”) is included in the Software, you can install and use the Client Software on multiple Clients regardless of Section 2.1 above.  For the purpose of this Agreement, “Client” shall mean the client systems in client-server systems connected via a network.
+
+2.3. If the software program for WebAdmin (“WebAdmin Software”) is included in the Software, you can install and use the WebAdmin Software on multiple Computers regardless of Section 2.1 above.  For the purpose of this Agreement, “WebAdmin” shall mean GUI tool for a range of tasks, from database installation to operation management.
+
+2.4. If the software program for Arbitration server (“Arbitration Software”) is included in the Software, you can install and use the Arbitration Software on one (1) Arbitration Server regardless of Section 2.1 above.
+
+2.5. If the “Pgpool-II” is included in the Software, you can install and use the Pgpool-II on multiple Computers regardless of Section 2.1 above.
+
+2.6. If the “Operator” is included in the Software, you can install and use the Operator on multiple Computers regardless of Section 2.1 above.
+
+2.7. If the software program for Helm Chart for install (“Helm Chart”) is included in the Software, you can install and use the Helm Chart on multiple Computers regardless of Section 2.1 above.
+
+2.8. You may also install and use the Software on your Cold Stand-by or Passive Stand-by Computer(s) without additional charge.  
+“Cold Stand-by Computer(s)” means standby Computer(s) which is available for substitute use, but not powered or warmed up and ready for use.  If the Computer breaks down or needs to be taken over, you are required to switch on and start the Cold Stand-by Computer in order to take over the Computer.  When you install the Software both on the Computer and the Cold Stand-by Computer, you shall not run the Computer and the Cold Stand-by Computer at the same time.
+“Passive Stand-by Computer(s)” means standby Computer(s) which is available for substitute use are powered on and the Software is ready to use but with no user activity or connections.  The only activity allowed is that performed by HA replication.
+
+2.9. Virtual server deployment: In the event the Software is deployed on a virtual server environment in Private Cloud or Public Cloud you must be licensed for the total number of Virtual Core mad available to the operating system.  For the purpose of this Exhibit, “Private Cloud” shall mean the on-premises virtual environment created by you with the virtualization software which allocated the core of the physical CPU to the Virtual Core in the virtual environment, and “Public Cloud” shall mean the third party’s cloud environment where you run the Software instead of Computer or Private Cloud.
+
+2.10. Private Cloud deployment: In the event that multiple virtual servers are deployed on a single physical server, you must be licensed for less of the total number of physical Core or the sum of the total number of Virtual Core allocated across virtual server deployments where the Software is installed.
+For example:
+
+a. The Software is installed in three (3) virtual servers allocated eight (8) Cores each summing to a total twenty-four (24) Cores.  The three (3) virtual servers reside on a single physical server with sixteen (16) physical Cores installed.  In this case, you must be licensed for the sixteen (16) Cores.
+b. The Software is installed in two (2) virtual servers allocated eight (8) Cores each summing to a total of sixteen (16) Cores.  The three (3) virtual servers resided on a single physical server with twenty-four (24) physical Cores installed.  In this case, you must be licensed for sixteen (16) Cores.
+
+2.11. Public Cloud deployment: You may install and use the Software on the Public Cloud (“Public Cloud Use”).  For Public Cloud Use, you must be licensed for the total number of Virtual Core allocated to the virtual servers in the Public Cloud where the Software is installed and used.  In case you use the Software on the third party’s cloud environment specified below (“Tested Cloud Services”), Fujitsu will provide the Support to you during the License and Support Period, provided that you have fully paid the applicable subscription fee.
+* FUJITSU Cloud Service for SPARC
+* FUJITSU Cloud Service for OSS
+* Amazon Elastic Compute Cloud provided by Amazon Web Services, Incorporated
+* Microsoft Azure by Microsoft Corporation
+* FUJITSU Cloud Service for AWS
+* FUJITSU Cloud Service for Microsoft Azure
+If your third party cloud provider is not listed above and Fujitsu has not otherwise announced support for it, Fujitsu may request, in event of a Support request, that you reproduce the problem on a supported cloud or physical server environment if they suspect the problem you are experiencing may be due to your cloud platform.
+
+2.12. If an upgraded version of the Software is released by Fujitsu, you may request Fujitsu for such upgraded version.  In this case, additional terms may be applied, if any.  For the avoidance of doubt, (i) such upgraded version shall be deemed as the Software in this Agreement, and, (ii) for the license count calculation counts the number re-calculated by the contents of Section 1 for the computer where all versions of the software are installed.
+
+2.13. If the Software is installed in “Non Production Environment” which is used for development, test or user acceptance testing only, one (1) license of the Software allows you to use the Software upto four (4) Cores, on the physical or virtual environment. 
+
+2.14.  Notwithstanding anything herein to the contrary, you may, without your payment of the applicable annual fees, install and use the Software on a physical or virtual server and use Documentation, during thirty (30) days from the date of your first installation of the Software (“Free Trial Term”).  In such Free Trial Term, Fujitsu and its authorized reseller shall have no obligation to provide the Support to you.  In addition, FUJITSU WILL NOT BE LIABLE TO YOU FOR ANY DAMAGES HOWEVER CAUSED AND (TO THE FULLEST EXTENT PERMITTED BY LAW) UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE) EVEN IF FUJITSU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND FUJITSU MAKES NO WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE LICENSED MATERIALS OR ANY OTHER ACCOMPANYING MATERIAL PROVIDED HEREUNDER. 
+
+
+FUJITSU LIMITED　                                 DM)1/2021/348-02                                                 
+
