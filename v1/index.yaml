@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  fujitsu-enterprise-postgres-operator:
+  - annotations:
+      catalog.cattle.io/certified: partner
+      catalog.cattle.io/release-name: fujitsu-fep
+    apiVersion: v2
+    appVersion: 4.1.0
+    created: "2022-03-25T16:21:56.860833885+09:00"
+    description: Helm Chart for Installation of Fujitsu Enterprise Postgres Operator
+    digest: be2b64e4cabcc49eb027817803974716da37b40e99184e3720a7c918ae3c0914
+    icon: https://github.com/fujitsuaustraliasoftwaretechnology/partner-charts/tree/main-source/assets/logos/fujitsu-fep.png
+    keywords:
+    - postgres
+    - postgresql
+    - database
+    - sql
+    - Fujitsu
+    - fep
+    kubeVersion: '>=1.19-0'
+    maintainers:
+    - email: pgtechenquiry@au.fujitsu.com
+      name: Fujitsu
+      url: https://www.postgresql.fastware.com/
+    name: fujitsu-enterprise-postgres-operator
+    type: application
+    urls:
+    - https://fujitsu.github.io/fep-operator-helm/v1/fujitsu-enterprise-postgres-operator-1.1.0.tgz
+    version: 1.1.0
+generated: "2022-03-25T16:21:56.859368627+09:00"
