@@ -7,19 +7,7 @@ This Helm Chart makes it easy to deploy FUJITSU Enterprise Postgres Operators in
 ```
     # helm repo add fep-repo https://fujitsu.github.io/fep-operator-helm/v1
     # kubectl create namespace fep-operator
-    # helm install fep-operator-release fep-repo/fujitsu-enterprise-postgres-for-kubernetes-namespace fep-operator
-```
-
-# How to upgrade an FEP Operator
-
-Helm does not support the upgrade of CRDs, and must be manually updated prior to the upgrade.
-
-```
-    # helm repo update
-    # helm search repo fujitsu-enterprise-postgres-for-kubernetes
-    # helm show crds fep-repo/fujitsu-enterprise-postgres-for-kubernetes > crds.yaml
-    # kubectl apply -f crds.yaml
-    # helm upgrade fep-operator-release fep-repo/fujitsu-enterprise-postgres-for-kubernetes-namespace fep-operator
+    # helm install fep-operator-release fep-repo/fujitsu-enterprise-postgres-operator --namespace fep-operator
 ```
 
 # About clients
