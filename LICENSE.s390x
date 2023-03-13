@@ -77,45 +77,50 @@ EXHIBIT A
 Licensed Material is specified in the Purchase Agreement by the following list table of Product Names / Product Numbers:
 
 No. |Product Name|Product Number
-1|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator for Kubernetes|B23K0CWY1
-2|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator Bundle for Kubernetes|B23K0CWZ1
-3|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator for Kubernetes|B23K0CX91
-4|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator Bundle for Kubernetes|B23K0CXA1
-5|Fujitsu Enterprise Postgres Operator/License Bundle for amd64, Software version 15|－
-6|Fujitsu Enterprise Postgres 15 Operator for amd64|－
-7|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator for Kubernetes|B23K0CT91
-8|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator Bundle for Kubernetes|B23K0CTA1
-9|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator for Kubernetes|B23K0CT21
-10|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator Bundle for Kubernetes|B23K0CT01
-11|Fujitsu Enterprise Postgres Operator/License Bundle for amd64, Software version 14|－
-12|Fujitsu Enterprise Postgres 14 Operator for amd64|－
+1|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per IFL 15 Operator for Kubernetes on Z|B23K0CX01
+2|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per IFL 15 Operator Bundle for Kubernetes on Z|B23K0CX11
+3|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per IFL 15 Operator Bundle for Kubernetes on Z|B23K0CX41
+4|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per IFL 15 Operator for Kubernetes on Z|B23K0CXB1
+5|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per IFL 15 Operator Bundle for Kubernetes on Z|B23K0CXC1
+6|Fujitsu Enterprise Postgres Operator/License Bundle for s390x, Software version 15|－
+7|Fujitsu Enterprise Postgres 15 Operator for s390x|－
+8|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per IFL 14 Operator for Kubernetes on Z|B23K0CTB1
+9|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per IFL 14 Operator Bundle for Kubernetes on Z|B23K0CTC1
+10|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per IFL 14 Operator Bundle for Kubernetes on Z|B23K0CTF1
+11|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per IFL 14 Operator for Kubernetes on Z|B23K0CT61
+12|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per IFL 14 Operator Bundle for Kubernetes on Z|B23K0CT51
+13|Fujitsu Enterprise Postgres Operator/License Bundle for s390x, Software version 14|－
+14|Fujitsu Enterprise Postgres 14 Operator for s390x|－
 
 1.2. License and Support Period:
 License and Support Period is as defined in the Purchase Agreement, or , if it is not defined in the Purchase Agreement, twelve (12) months from the invoice date of this Licensed Material.
 If you fail to make any payment by due date, Fujitsu or authorized reseller, at its sole discretion and without affecting the rights of Fujitsu under this Agreement, may cancel or suspend the license and Support.
 
 1.3. Required Product
-No. 1, 3, 6, 7, 9 and 12 in the table of Product Names in 1.1 Licensed Material require the following products.
+No. 1, 4, 7, 8, 11 and 14 in the table of Product Names in 1.1 Licensed Material require the following products.
 
 Product Name|Product Number
-Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 for Linux|B23HB9G80
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per IFL (eDelivery) 15 for Linux on Z|B23KE0BA8
 
-Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 15 for Linux|B23KE0B68
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per IFL (eDelivery) 15 for Linux on Z|B23K0CWV1
 
-Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 15 for Linux|B23K0CWR1
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per IFL (eDelivery) 15 for Linux on Z|B23K0CX71
 
-Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 for Linux|B23K0CX51
-
-FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 for Linux|B23HB9380
-FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 14 for Linux|B23KE0AK8
-FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 14 for Linux|B23K0CSP1
-FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 for Linux|B23K0CSY1
+FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per IFL (eDelivery) 14 for Linux on Z|B23KE0AV8
+FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per IFL (eDelivery) 14 for Linux on Z|B23K0CSW1
+FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per IFL (eDelivery) 14 for Linux on Z|B23K0CT41
 
 2. Additional Terms
 
 The Software which is included in Licensed Material listed above is licensed under the following terms and conditions in addition to those of this Agreement.
 
-2.1. Physical server deployment: Notwithstanding anything contained herein to the contrary, in the case that the Software is installed on a physical server, you must be licensed for the total number of Cores installed on the server.  For example, a two (2) CPU server with eight (8) Cores per CPU must be licensed for sixteen (16) Cores of the Software.  For the purpose of this Exhibit, a “CPU” shall mean the physical processor installed in a physical server, a “Core” shall mean a processor core of a CPU, a “Virtual Core” in the context of Software environment shall mean the number of cores recognized by the Operating system, and “Computer” shall mean the computer hardware that runs the OS approved by Fujitsu as the operating environment for the Software.  In case you divide physically one (1) Computer into a number of individual sections where each section acts as an independent system (“Partition”), then one (1) Partition shall be deemed equivalent to one (1) Computer under this Agreement.
+2.1. Notwithstanding anything contained herein to the contrary, in the case that the Software is installed on a physical server or a virtual server, you must be licensed for the maximum number of IFL in the serveror , if “Capacities” is applicable, the number of Capacities.
+Capacities: In the case the partial number of IFLs is allocated to virtual machine which the Software is installed the number of allocated IFLs is licensed but the number is rounded up to the nearest IFL.
+For example:
+a. The Software is installed in three (3) virtual servers allocated eight (8) Virtual cores each summing to a total twenty-four (24) Virtual cores.  The three (3) virtual servers reside on a single physical server with sixteen (16) IFLs installed.  In this case, the number of Capacities is sixteen (16) and you must be licensed for the sixteen (16) IFLs.
+b. The Software is installed in one (1) virtual server allocated 70% capacities which means five point six (5.6) Virtual cores to a 8 IFLs at a server.  In this case, the number of Capacities is six (6) and you must be licensed for the six (6) Virtual cores as rounded up to the nearest core.
+
+IFL : IBM® Integrated Facility for Linux (“IFL”), a processor dedicated to Linux workloads on IBM z®, mounted in the Computer.  For the purpose of this Exhibit, “Computer” shall mean the computer hardware that runs the OS approved by Fujitsu as the operating environment for the Software.  In case you divide physically one (1) Computer into a number of individual sections where each section acts as an independent system (“Partition”), then one (1) Partition shall be deemed equivalent to one (1) Computer or Virtual Server under this Agreement.
 
 2.2. If the software program for Client (“Client Software”) is included in the Software, you can install and use the Client Software on multiple Clients regardless of Section 2.1 above.  For the purpose of this Agreement, “Client” shall mean the client systems in client-server systems connected via a network.
 
@@ -129,25 +134,18 @@ The Software which is included in Licensed Material listed above is licensed und
 
 2.7. If the software program for Helm Chart for install (“Helm Chart”) is included in the Software, you can install and use the Helm Chart on multiple Computers regardless of Section 2.1 above.
 
-2.8. You may also install and use the Software on your Cold Stand-by or Passive Stand-by Computer(s) without additional charge.  
+2.8. You may also install and use the Software on your Cold Stand-by or Passive Stand-by Computer(s) without additional charge. 
 “Cold Stand-by Computer(s)” means standby Computer(s) which is available for substitute use, but not powered or warmed up and ready for use.  If the Computer breaks down or needs to be taken over, you are required to switch on and start the Cold Stand-by Computer in order to take over the Computer.  When you install the Software both on the Computer and the Cold Stand-by Computer, you shall not run the Computer and the Cold Stand-by Computer at the same time.
 “Passive Stand-by Computer(s)” means standby Computer(s) which is available for substitute use are powered on and the Software is ready to use but with no user activity or connections.  The only activity allowed is that performed by HA replication.
 
-2.9. Virtual server deployment: In the event the Software is deployed on a virtual server environment in Private Cloud or Public Cloud you must be licensed for the total number of Virtual Core mad available to the operating system.  For the purpose of this Exhibit, “Private Cloud” shall mean the on-premises virtual environment created by you with the virtualization software which allocated the core of the physical CPU to the Virtual Core in the virtual environment, and “Public Cloud” shall mean the third party’s cloud environment where you run the Software instead of Computer or Private Cloud.
+2.9. If your third party cloud provider is not listed below and Fujitsu has not otherwise announced support for it, Fujitsu may request, in event of a Support request, that you reproduce the problem on a supported cloud or physical server environment if they suspect the problem you are experiencing may be due to your cloud platform.
+* IBM Cloud
 
-2.10. Private Cloud deployment: In the event that multiple virtual servers are deployed on a single physical server, you must be licensed for less of the total number of physical Core or the sum of the total number of Virtual Core allocated across virtual server deployments where the Software is installed.
-For example:
+2.10. If an upgraded version of the Software is released by Fujitsu, you may request Fujitsu for such upgraded version.  In this case, additional terms may be applied, if any.  For the avoidance of doubt, (i) such upgraded version shall be deemed as the Software in this Agreement, and, (ii) for the license count calculation counts the number re-calculated by the contents of Section 1 for the computer where all versions of the software are installed.
 
-a. The Software is installed in three (3) virtual servers allocated eight (8) Cores each summing to a total twenty-four (24) Cores.  The three (3) virtual servers reside on a single physical server with sixteen (16) physical Cores installed.  In this case, you must be licensed for the sixteen (16) Cores.
-b. The Software is installed in two (2) virtual servers allocated eight (8) Cores each summing to a total of sixteen (16) Cores.  The three (3) virtual servers resided on a single physical server with twenty-four (24) physical Cores installed.  In this case, you must be licensed for sixteen (16) Cores.
+2.11. If the Software is installed in “Non Production Environment” which is used for development, test or user acceptance testing only, one (1) license of the Software allows you to use the Software upto four (4) IFLs, on the physical.
 
-2.11. Public Cloud deployment: You may install and use the Software on the Public Cloud (“Public Cloud Use”).  For Public Cloud Use, you must be licensed for the total number of Virtual Core allocated to the virtual servers in the Public Cloud where the Software is installed and used.  In case you use the Software on the “Supported Platform”  described in the User's Guide, Fujitsu will provide the Support to you during the License and Support Period, provided that you have fully paid the applicable subscription fee.
+2.12.  Notwithstanding anything herein to the contrary, you may, without your payment of the applicable annual fees, install and use the Software on a physical or virtual server and use Documentation, during thirty (30) days from the date of your first installation of the Software (“Free Trial Term”).  In such Free Trial Term, Fujitsu and its authorized reseller shall have no obligation to provide the Support to you.  In addition, FUJITSU WILL NOT BE LIABLE TO YOU FOR ANY DAMAGES HOWEVER CAUSED AND (TO THE FULLEST EXTENT PERMITTED BY LAW) UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE) EVEN IF FUJITSU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND FUJITSU MAKES NO WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE LICENSED MATERIALS OR ANY OTHER ACCOMPANYING MATERIAL PROVIDED HEREUNDER.
 
-2.12. If an upgraded version of the Software is released by Fujitsu, you may request Fujitsu for such upgraded version.  In this case, additional terms may be applied, if any.  For the avoidance of doubt, (i) such upgraded version shall be deemed as the Software in this Agreement, and, (ii) for the license count calculation counts the number re-calculated by the contents of Section 1 for the computer where all versions of the software are installed.
-
-2.13. If the Software is installed in “Non Production Environment” which is used for development, test or user acceptance testing only, one (1) license of the Software allows you to use the Software upto four (4) Cores, on the physical or virtual environment.
-
-2.14.  Notwithstanding anything herein to the contrary, you may, without your payment of the applicable annual fees, install and use the Software on a physical or virtual server and use Documentation, during thirty (30) days from the date of your first installation of the Software (“Free Trial Term”). In such Free Trial Term, Fujitsu and its authorized reseller shall have no obligation to provide the Support to you.  In addition, FUJITSU WILL NOT BE LIABLE TO YOU FOR ANY DAMAGES HOWEVER CAUSED AND (TO THE FULLEST EXTENT PERMITTED BY LAW) UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE) EVEN IF FUJITSU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND FUJITSU MAKES NO WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE LICENSED MATERIALS OR ANY OTHER ACCOMPANYING MATERIAL PROVIDED HEREUNDER.
-
-FUJITSU LIMITED　                                 DM)1/2022/394-01                                                 
+FUJITSU LIMITED　                                 DM)1/2022/395-01                                                 
 
