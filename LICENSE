@@ -1,4 +1,4 @@
-﻿FUJITSU ANNUAL SUBSCRIPTION AGREEMENT
+FUJITSU ANNUAL SUBSCRIPTION AGREEMENT
 
 For the purposes of this Fujitsu Annual Subscription Agreement, “Licensed Material” shall mean the software program (“Software”) and the accompanying documentation, including “Read Me” file(s) (“Documentation”), which is identified on Exhibit A attached hereto.  The Software is copyrighted and owned by Fujitsu Limited or a Fujitsu’s licensor, and licensed, not sold to you (“you” or “You”).  The term “Fujitsu” hereunder shall collectively mean Fujitsu Limited or its subsidiaries.
 
@@ -77,35 +77,44 @@ EXHIBIT A
 Licensed Material is specified in the Purchase Agreement by the following list table of Product Names / Product Numbers:
 
 No. |Product Name|Product Number
-1|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator for Kubernetes|B23K0CWY1
-2|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator Bundle for Kubernetes|B23K0CWZ1
-3|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator for Kubernetes|B23K0CX91
-4|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator Bundle for Kubernetes|B23K0CXA1
-5|Fujitsu Enterprise Postgres Operator/License Bundle for amd64, Software version 15|－
-6|Fujitsu Enterprise Postgres 15 Operator for amd64|－
-7|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator for Kubernetes|B23K0CT91
-8|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator Bundle for Kubernetes|B23K0CTA1
-9|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator for Kubernetes|B23K0CT21
-10|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator Bundle for Kubernetes|B23K0CT01
-11|Fujitsu Enterprise Postgres Operator/License Bundle for amd64, Software version 14|－
-12|Fujitsu Enterprise Postgres 14 Operator for amd64|－
+1|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core Operator for Kubernetes|B23K0D111
+2|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core Operator Bundle for Kubernetes|B23K0D121
+3|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core Operator for Kubernetes|B23K0CZ61
+4|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core Operator Bundle for Kubernetes|B23K0CZ71
+5|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core Operator for Kubernetes|B23K0D1H1
+6|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core Operator Bundle for Kubernetes|B23K0D1L1
+7|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core Operator for Kubernetes|B23K0D1P1
+8|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core Operator Bundle for Kubernetes|B23K0D1S1
+9|Fujitsu Enterprise Postgres Operator/License Bundle for amd64, Software version 16|－
+10|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator for Kubernetes|B23K0CWY1
+11|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator Bundle for Kubernetes|B23K0CWZ1
+12|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator for Kubernetes|B23K0CX91
+13|Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 Operator Bundle for Kubernetes|B23K0CXA1
+14|Fujitsu Enterprise Postgres Operator/License Bundle for amd64, Software version 15|－
+15|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator for Kubernetes|B23K0CT91
+16|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator Bundle for Kubernetes|B23K0CTA1
+17|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator for Kubernetes|B23K0CT21
+18|FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 Operator Bundle for Kubernetes|B23K0CT01
+19|Fujitsu Enterprise Postgres Operator/License Bundle for amd64, Software version 14|－
 
 1.2. License and Support Period:
 License and Support Period is as defined in the Purchase Agreement, or , if it is not defined in the Purchase Agreement, twelve (12) months from the invoice date of this Licensed Material.
 If you fail to make any payment by due date, Fujitsu or authorized reseller, at its sole discretion and without affecting the rights of Fujitsu under this Agreement, may cancel or suspend the license and Support.
 
 1.3. Required Product
-No. 1, 3, 6, 7, 9 and 12 in the table of Product Names in 1.1 Licensed Material require the following products.
+No. 1, 3, 5, 7, 10, 12, 15 and 17 in the table of Product Names in 1.1 Licensed Material require the following products.
 
 Product Name|Product Number
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core for Linux|B23HBADY0
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) for Linux|B23KE0CCY
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core for Linux|B23K0CZ01
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) for Linux|B23K0CZF1
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) for Linux|B23K0CZV1
+Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) for Linux|B23K0D011
 Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 for Linux|B23HB9G80
-
 Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 15 for Linux|B23KE0B68
-
 Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 15 for Linux|B23K0CWR1
-
 Fujitsu Enterprise Postgres Advanced Edition Annual Subscription License per Core 15 for Linux|B23K0CX51
-
 FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core 14 for Linux|B23HB9380
 FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 14 for Linux|B23KE0AK8
 FUJITSU Software Enterprise Postgres Advanced Edition Annual Subscription License per Core (eDelivery) 14 for Linux|B23K0CSP1
@@ -149,5 +158,5 @@ b. The Software is installed in two (2) virtual servers allocated eight (8) Core
 
 2.14.  Notwithstanding anything herein to the contrary, you may, without your payment of the applicable annual fees, install and use the Software on a physical or virtual server and use Documentation, during thirty (30) days from the date of your first installation of the Software (“Free Trial Term”). In such Free Trial Term, Fujitsu and its authorized reseller shall have no obligation to provide the Support to you.  In addition, FUJITSU WILL NOT BE LIABLE TO YOU FOR ANY DAMAGES HOWEVER CAUSED AND (TO THE FULLEST EXTENT PERMITTED BY LAW) UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE) EVEN IF FUJITSU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND FUJITSU MAKES NO WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE LICENSED MATERIALS OR ANY OTHER ACCOMPANYING MATERIAL PROVIDED HEREUNDER.
 
-FUJITSU LIMITED　                                 DM)1/2022/394-01                                                 
+FUJITSU LIMITED                                   DM)1/2024/444-01                                                 
 
